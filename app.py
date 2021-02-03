@@ -5,6 +5,7 @@ Werkzeug Documentation:  http://werkzeug.pocoo.org/documentation/
 This file creates your application.
 """
 
+#Jantae Leckie
 from flask import Flask, render_template
 
 app = Flask(__name__)
