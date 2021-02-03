@@ -3,7 +3,17 @@ body {
   font-size: 14px;
   line-height: 1.5;
 }
-
+h1{
+  color: 38B2AC;
+}
+h2{
+  color: 5A67D8;
+}
+img{
+  size: 300px;
+  border-radius: 25px;
+  border: solid black 10px;
+}
 .container {
   max-width: 960px;
   margin: 0 auto;
